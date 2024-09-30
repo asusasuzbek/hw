@@ -4,7 +4,7 @@ Created on Mon Sep 23 22:21:37 2024
 
 @author: Компьютер
 """
-import math
+import math pi, cos
 print("Введите длину первой стороны: ")
 a = input()
 print("Введите длину второй стороны: ")
